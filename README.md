@@ -1,3 +1,3 @@
 ## Android Chat App
 
-. Simple implementation of realtime chat app using firebase.
+*Simple implementation of a realtime chat app using firebase.
