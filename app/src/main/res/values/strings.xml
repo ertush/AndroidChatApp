@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Easy Chat</string>
+
+    <string name="about_menu">about</string>
+    <string name="logout_menu">Logout</string>
+    <string name="register_menu">Register</string>
+    <string name="profile_menu">My profile</string>
+
+    <string name="sample_user_profile_name">Anabella</string>
+    <string name="sample_user_profile_mail">anbella@hotmail.com</string>
+
+    <string name="nav_open_drawer">Open navigation drawer</string>
+    <string name="nav_close_drawer">Close navigation drawer</string>
+
+    <string-array name="Gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string name="Chat_Description"></string>
+</resources>
